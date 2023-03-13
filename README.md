@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available in [my profile](my profile)
+- 👨‍💻 All of my projects are available in my profile
 
 - 📫 How to reach me **juani.rodriguez4444@gmail.com**
 
